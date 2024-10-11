@@ -17,6 +17,8 @@ Flagmoji is a simple app that accepts user inputs and displays the country's fla
 
 ## Demo
 
+You can read the blog article on the project [DEV.to Post](https://dev.to/anni/building-a-country-to-flag-emoji-converter-app-with-vite-typescript-and-tolgee-29e9)
+
 You can view a live demo of Flagmoji [here](https://flagmoji.netlify.app/)
 
 ## Screenshots
