@@ -57,7 +57,7 @@ VITE_APP_TOLGEE_API_URL=https://app.tolgee.io
 VITE_APP_TOLGEE_API_KEY=your-api-key
 ```
 
-> You can get your GROQ API key by signing up on [Tolgee](https://app.tolgee.io)
+> You can get your Tolgee API key by going to [Tolgee](https://app.tolgee.io)
 
 3. Start the development server
 
