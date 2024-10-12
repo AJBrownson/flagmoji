@@ -24,7 +24,7 @@ You can view a live demo of Flagmoji [here](https://flagmoji.netlify.app/)
 ## Screenshots
 
 ![App Home Page](https://github.com/user-attachments/assets/ffd118c4-66ab-4711-aad3-0c631a82dda7)
-![Selct Language Option](https://github.com/user-attachments/assets/33f7cc6f-3e9a-4c70-8f48-7c6e86f962ae)
+![Select Language Option](https://github.com/user-attachments/assets/33f7cc6f-3e9a-4c70-8f48-7c6e86f962ae)
 ![French Translation](https://github.com/user-attachments/assets/5210fa30-3737-4ab4-b26a-47ad70ca030b)
 ![German Translation](https://github.com/user-attachments/assets/178479c5-77b4-44e8-b418-57980b0782d4)
 ![App at Work](https://github.com/user-attachments/assets/c8c18aeb-73b4-47b8-bd26-9a66490d5b09)
