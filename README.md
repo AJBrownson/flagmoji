@@ -72,6 +72,8 @@ npm run dev
 5. To host on Netlify or Vercel, run the following command:
 
 ```bash
+npm i -D @tolgee/cli
+
 npx tolgee login <your-tolgee-api-key>
 
 npx tolgee --project-id <your-project-id-number> pull --path public/i18n
